@@ -1,0 +1,1 @@
+I used this in several apps where we had mixed (C++/C/Java) code in a single program.  By using the JNI interface, I was able to seamlessly integrate logging.  These have been in production environments generating many gigs of logs weekly... so pretty stable.
